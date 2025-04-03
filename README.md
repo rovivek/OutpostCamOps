@@ -1,4 +1,4 @@
-an explanation of each file in the repository is below:
+**an explanation of each file in the repository is below:**
 
 apt_packages.txt: file created after sudo apt-related equivalent of pip freeze > requirements.txt
 
